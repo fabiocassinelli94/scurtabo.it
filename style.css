@@ -1,0 +1,9 @@
+body {
+  font-family: Georgia, serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 40px;
+  background: #ffffff;
+  color: #111;
+}
+a { color: #003366; }
